@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "pyscript-test": {
+      "appLocation": "src",
+      "outputLocation": ".",
+      "appName": "pyscript-test",
+      "resourceGroupName": "pyscript-test-rg"
+    }
+  }
+}
